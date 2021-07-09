@@ -1,0 +1,93 @@
+/* HEADER SECTION */
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  margin: 0px;
+}
+body {
+  background: url(img/bg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+header {
+  
+  height: 97vh;
+  padding: 0px;
+  margin: 0px;
+  color: #fff;
+  position: relative;
+}
+.logo {
+  background-color: #1755cf;
+  width: 32%;
+  border-radius: 12px;
+  margin-left: 28px;
+  margin-top: 25px;
+  
+}
+.logo2 {
+  margin-top: 27px;
+  margin-left: 10px;
+  padding: 2px;
+  word-spacing: 5px;
+  font-weight: lighter;
+}
+.title {
+  margin-top: 10px;
+  color: black;
+  font-size: 11px;
+  margin-left: 35px;
+}
+.description {
+  text-transform: capitalize;
+  line-height: 35px;
+  color: black;
+  margin-left: 35px;
+  margin-top: 20px;
+}
+.nav-bar {
+  position: bottom;
+  margin-top: 400px;
+  margin-left: 35px;
+  
+}
+ul li {
+  list-style-type: none;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 7px;
+}
+ul li:first-child {
+  margin-left: 0;
+}
+ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: lighter;
+}
+ul li a .icon {
+  margin-bottom: 12px;
+  font-size: 28px;
+  position: relative;
+  
+}
+ul li a .icon1 {
+  margin-left: 20px;
+}
+ul li a .icon2 {
+  margin-left: 10px;
+}
+ul li a .icon3 {
+  margin-left: 14px;
+}
+ul li a .icon4 {
+  margin-left: 8px;
+}
+ul li a .icon5 {
+  margin-left: 18px;
+}
